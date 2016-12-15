@@ -1,0 +1,29 @@
+{
+  "name": "angularhelloworld",
+  "version": "1.0.0",
+  "description": "Angular Hello World",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenAmaraMarou/AngularHelloWorld.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "dependencies": {
+    "@angular/core": "2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "2.1.4"
+  },
+  "author": "MBA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenAmaraMarou/AngularHelloWorld/issues"
+  },
+  "homepage": "https://github.com/BenAmaraMarou/AngularHelloWorld#readme"
+}
