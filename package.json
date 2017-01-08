@@ -31,12 +31,12 @@
     "reflect-metadata": "^0.1.8",
     "rxjs": "5.0.0-rc.4",
     "zone.js": "^0.7.2"
-    
   },
   "devDependencies": {
     "concurrently": "^3.1.0",
     "lite-server": "^2.2.2",
-    "typescript": "~2.1.4"
+    "typescript": "~2.1.4",
+    "@types/node": "^6.0.46"
   },
   "author": "MBA",
   "license": "ISC",
